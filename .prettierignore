@@ -1,0 +1,9 @@
+/node_modules
+/build
+**/*.yml
+**/*.yaml
+.vs
+.vscode
+.idea
+.git
+.docusaurus
