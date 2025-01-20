@@ -1,4 +1,8 @@
 {
     "label": "Шпаргалки",
-    "position": 1
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "Шпаргалки по web-разработке"
+    }
 }
