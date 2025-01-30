@@ -74,7 +74,7 @@ const config: Config = {
         },
         footer: {
             style: 'dark',
-            copyright: `© ${new Date().getFullYear()}, IT Legacy<br />Built by <a href="https://github.com/kvadrofilii" target="_blank" rel="noopener noreferrer">Michael Yakovlev</a> with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>`,
+            copyright: `© ${new Date().getFullYear()}, IT Legacy<br />Built by <a href="https://github.com/kvadrofilii" target="_blank" rel="noopener noreferrer">Michael Yakovlev</a> with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a><br />Deploys on <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify</a>.`,
         },
         prism: {
             theme: prismThemes.github,
