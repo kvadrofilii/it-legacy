@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
 import clsx from 'clsx';
-import Link from '@docusaurus/Link';
+//import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
@@ -16,11 +16,11 @@ function HomepageHeader() {
                     {siteConfig.title}
                 </Heading>
                 <p className="hero__subtitle">{siteConfig.tagline}</p>
-                <div className={styles.buttons}>
+                {/*<div className={styles.buttons}>
                     <Link className="button button--secondary button--lg" to="/docs/intro">
                         Поехали!
                     </Link>
-                </div>
+                </div>*/}
                 <p>Материалы находятся в свободном доступе (лицензия MIT).</p>
             </div>
         </header>
