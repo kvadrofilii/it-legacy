@@ -33,18 +33,12 @@
     background-color: #242526;
 }
 
-pre.prism-code {
-    &:before {
-        position: absolute;
-        top: 4px;
-        left: 1rem;
-        font-size: 0.8rem;
-        color: rgb(100 100 100);
-    }
-
-    & > code {
-        padding-top: 1.6rem;
-    }
+pre.prism-code:before {
+    position: absolute;
+    top: 4px;
+    right: 1rem;
+    font-size: 0.8rem;
+    color: rgb(100 100 100);
 }
 
 pre.language-shell:before {
