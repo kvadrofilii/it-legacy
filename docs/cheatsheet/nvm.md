@@ -29,5 +29,3 @@ $ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | ba
 `nvm use версия` - Заменить текущую версию
 
 `nvm uninstall версия` - Удалить версию
-
-## Автоматическое переключение
