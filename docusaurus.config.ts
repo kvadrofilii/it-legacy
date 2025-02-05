@@ -31,6 +31,8 @@ const config: Config = {
         locales: ['ru'],
     },
 
+    plugins: ['@docusaurus/plugin-ideal-image'],
+
     presets: [
         [
             'classic',
