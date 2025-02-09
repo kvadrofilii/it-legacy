@@ -23,3 +23,11 @@
     justify-content: center;
     margin-bottom: 20px;
 }
+
+.link {
+    color: blue;
+
+    &:hover {
+        color: blueviolet;
+    }
+}
