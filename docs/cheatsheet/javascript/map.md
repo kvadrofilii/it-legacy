@@ -113,4 +113,6 @@ const array = [...map];
 const array = Array.from(map);
 ```
 
-Подробнее о Map можно ознакомится на сайте [Современный учебник JavaScript](https://learn.javascript.ru/map-set#map)
+## Полезные ссылки
+
+- [Map и Set | Современный учебник JavaScript](https://learn.javascript.ru/map-set#map)
