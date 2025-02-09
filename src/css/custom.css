@@ -58,3 +58,7 @@ pre.language-javascript:before {
 pre.language-go:before {
     content: 'golang';
 }
+
+pre.language-json:before {
+    content: 'json';
+}
