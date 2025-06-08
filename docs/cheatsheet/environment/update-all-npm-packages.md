@@ -1,8 +1,8 @@
 ---
 title: Обновление всех npm-пакетов
 description: Обновление всех npm-пакетов
-keywords: ['npm',  'nodejs']
-tags: ['npm', 'nodejs']
+keywords: ['npm',  'nodejs', 'шпаргалка']
+tags: ['npm', 'nodejs', 'шпаргалка']
 ---
 
 Пакет `npm-check-updates` обновляет зависимости `package.json` до последних версий, игнорируя указанные версии.
