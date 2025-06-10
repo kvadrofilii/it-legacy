@@ -7,6 +7,11 @@ tags: ['npm', 'shell', 'шпаргалка']
 
 # Шпаргалка по работе с npm
 
+`npm -g list` - Посмотреть список установленных глобально пакетов
+
+`npm update -g` - Обновить установленные глобальные пакеты
+
+## Создание npm-пакета
 Войти в аккаунт npm
 ```shell
 npm login
@@ -27,7 +32,7 @@ npm publish --access public
 npm unpublish <project>[@<version>]
 ```
 
-## Повышение версии npm пакета
+## Повышение версии npm-пакета
 
 ```shell
 npm version [<newversion> | major | minor | patch | premajor | preminor | prepatch | prerelease | from-git]
