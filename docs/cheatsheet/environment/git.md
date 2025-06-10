@@ -1,5 +1,5 @@
 ---
-title: Шпаргалка по Git
+title: Git
 description: Шпаргалка по Git
 keywords: ['git', 'shell', 'шпаргалка']
 tags: ['git', 'shell', 'шпаргалка']

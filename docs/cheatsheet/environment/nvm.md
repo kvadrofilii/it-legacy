@@ -1,5 +1,5 @@
 ---
-title: Шпаргалка по Node Version Manager
+title: Node Version Manager
 description: Шпаргалка по Node Version Manager
 keywords: ['javascript', 'js', 'nodejs', 'шпаргалка']
 tags: ['javascript', 'js', 'nodejs', 'шпаргалка']

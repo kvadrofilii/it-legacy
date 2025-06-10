@@ -1,5 +1,5 @@
 ---
-title: Шпаргалка по Map
+title: Map
 description: Шпаргалка по Map
 keywords: ['javascript', 'js', 'Map', 'шпаргалка']
 tags: ['javascript', 'js', 'Map', 'шпаргалка']

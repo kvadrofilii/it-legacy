@@ -1,6 +1,6 @@
 ---
-title: Шпаргалка по Array
-description: Шпаргалка по Array
+title: Массивы (Array)
+description: Шпаргалка по массивам (Array)
 keywords: ['javascript', 'js', 'Array', 'Массивы', 'шпаргалка']
 tags: ['javascript', 'js', 'Array', 'Массивы', 'шпаргалка']
 ---
