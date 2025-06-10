@@ -40,3 +40,9 @@ yarn-error.log*
 # Drafts #
 ######################
 .drafts
+
+# Docker #
+######################
+.dockerignore
+docker-compose.yml
+Dockerfile
