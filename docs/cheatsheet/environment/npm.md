@@ -12,22 +12,27 @@ tags: ['npm', 'shell', 'шпаргалка']
 `npm update -g` - Обновить установленные глобальные пакеты
 
 ## Создание npm-пакета
+
 Войти в аккаунт npm
+
 ```shell
 npm login
 ```
 
 Публикация пакета
+
 ```shell
 npm publish
 ```
 
 Публикация пакета с заданной областью (@you-account/)
+
 ```shell
 npm publish --access public
 ```
 
 Удаления пакета из npm
+
 ```shell
 npm unpublish <project>[@<version>]
 ```

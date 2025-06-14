@@ -10,8 +10,8 @@ tags: ['typescript', 'ts', 'рецепт']
 ```ts
 type JSONPrimitive = string | number | boolean | null;
 type JSONObject = {
-	[key: string]: JSONValue;
-}
+    [key: string]: JSONValue;
+};
 type JSONArray = JSONValue[];
 type JSONValue = JSONPrimitive | JSONObject | JSONArray;
 ```
