@@ -19,13 +19,19 @@ tags: ['npm', 'shell', 'шпаргалка']
 npm login
 ```
 
+Инициализация пакета с заданной областью (@your_org_name/)
+
+```shell
+npm init --scope=your_org_name
+```
+
 Публикация пакета
 
 ```shell
 npm publish
 ```
 
-Публикация пакета с заданной областью (@you-account/)
+Публикация публичного пакета с заданной областью (@your_org_name/)
 
 ```shell
 npm publish --access public
